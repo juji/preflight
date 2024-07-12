@@ -2,6 +2,7 @@
   "name": "@juji/preflight",
   "version": "1.0.0",
   "description": "An edited preflight.css",
+  "private": false,
   "main": "min.css",
   "scripts": {
     "minify": "minify preflight.css > min.css"
