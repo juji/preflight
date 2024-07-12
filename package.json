@@ -6,6 +6,10 @@
   "scripts": {
     "minify": "minify preflight.css > min.css"
   },
+  "files":[
+    "./min.css",
+    "./preflight.css"
+  ],
   "keywords": ["preflight", "css"],
   "author": "juji <him@jujiyangasli.com>",
   "license": "MIT",
