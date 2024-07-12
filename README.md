@@ -1,6 +1,6 @@
 # @juji/preflight
 
-An Edited [preflight.csss](https://tailwindcss.com/docs/preflight).
+An Edited [preflight.css](https://tailwindcss.com/docs/preflight).
 
 ## Install
 ```bash
