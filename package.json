@@ -1,0 +1,15 @@
+{
+  "name": "@juji/preflight",
+  "version": "1.0.0",
+  "description": "An edited preflight.css",
+  "main": "min.css",
+  "scripts": {
+    "minify": "minify preflight.css > min.css"
+  },
+  "keywords": ["preflight", "css"],
+  "author": "juji <him@jujiyangasli.com>",
+  "license": "MIT",
+  "dependencies": {
+    "minify": "^11.4.0"
+  }
+}
