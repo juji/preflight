@@ -1,6 +1,6 @@
 {
   "name": "@juji/preflight",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An edited preflight.css",
   "main": "min.css",
   "scripts": {

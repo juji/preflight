@@ -2,6 +2,8 @@
 
 An Edited [preflight.css](https://tailwindcss.com/docs/preflight).
 
+By Edit, i mean i just replaced the font.
+
 ## Install
 ```bash
 npm i @juji/preflight # or
